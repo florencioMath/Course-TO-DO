@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## <a id="layout">🔖 Layout</a>
 
-De uma olhada em como ficou a página no <a href="https://1matheusflorencio.github.io/Alura-Ceep/">Github</a> <br>
+De uma olhada em como ficou a página no <a href="https://1matheusflorencio.github.io/Alura-TO-DO/">Github</a> <br>
 
 <!--
 GIFs:

@@ -34,25 +34,25 @@ GIFs:
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/1matheusflorencio/Alura-Barbearia/blob/main/README%20arquivos/Barbearia%20Alura%20-%20Video_1_1_1.gif?raw=true" alt="GIF da Home"/><br>
+      <img src="https://raw.githubusercontent.com/1matheusflorencio/Alura-TO-DO/master/README%20arquivos/01%20-%20Cadastro%20de%20tarefas.gif" alt="GIF de Cadastro de Tarefas"/><br>
         <sub>
-         Home
+         Cadastrando Tarefas
         </sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/1matheusflorencio/Alura-Barbearia/blob/main/README%20arquivos/Barbearia%20Alura%20-%20Video_1_2_1.gif?raw=true" alt="GIF do Produtos"/><br>
+      <img src="https://raw.githubusercontent.com/1matheusflorencio/Alura-TO-DO/master/README%20arquivos/02%20-%20Cadastro%20de%20tarefas.gif" alt="GIF de Cadastro de Tarefas"/><br>
         <sub>
-          Produtos
+          Cadastrando mais algumas Tarefas
         </sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/1matheusflorencio/Alura-Barbearia/blob/main/README%20arquivos/Barbearia%20Alura%20-%20Video_1_3_1.gif?raw=true" alt="GIF do Contato"/><br>
+      <img src="https://raw.githubusercontent.com/1matheusflorencio/Alura-TO-DO/master/README%20arquivos/03%20-%20Tarefa%20concluida%20e%20deletada.gif" alt="GIF Conluindo e Deletando Tarefas"/><br>
         <sub>
-          Contato
+          Concluindo e Deletando Tarefas
         </sub>
     </td>
   </tr>

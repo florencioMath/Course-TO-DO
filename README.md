@@ -28,7 +28,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 De uma olhada em como ficou a página no <a href="https://1matheusflorencio.github.io/Alura-TO-DO/">Github</a> <br>
 
-<!--
 GIFs:
 <div align="center">
 <table>
@@ -58,7 +57,7 @@ GIFs:
   </tr>
 </table>
   </div>
--->
+  
 ---
 
 ## <a id="devs">👩‍💻 Devs</a> 

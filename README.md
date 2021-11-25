@@ -11,7 +11,7 @@
 ## <a id="projeto">💻 Projeto</a>
 
 <p align="justify">
-Esse projeto foi feito para o curso de JavaScript na WEB - Armazenando dados no navegador para a formação de Front-End na ALura.
+Esse projeto foi feito para o curso de <a href="https://www.alura.com.br/curso-online-js-web-armazenando-dados-navegador" target="_blank">JavaScript na WEB - Armazenando dados no navegador</a> para a <a href="https://www.alura.com.br/formacao-front-end" target="_blank">Formação de Front-End</a> na ALura.
 Ele é um To-Do List simples, ao qual poderemos adicionar, conluir e exluir tarefas com o uso de datas e horas para organizar as tarefas.
 O Objetivo é demonstrar o entendimento do trabalho com o local storage e session storage, e em conjunto com a API de armazenamento do navegador. 
 </p>
